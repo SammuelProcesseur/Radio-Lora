@@ -3,15 +3,22 @@
 Matériel:
 
 2 Module LoRa
+ 
 2 Arduino nano
+
 1 Bobine de SnPb
+
 2 Tiges de cuivre de 17.3cm
+
 1 Fer à souder
+
 16 Câble Dupont
+
 
 1:
 
 souder 1 tige de cuivre par module LoRa en guise d'antenne
+
 souder les pattes au Lora
 
 2:
@@ -40,6 +47,7 @@ RST             D9
 3:
 
 ajouter la bonne bibliothèque à votre Arduino
+
 Tool -->Manage libraries --> taper dans la barre de recherche LoRa by Sandeep Mistry
 
 4:
