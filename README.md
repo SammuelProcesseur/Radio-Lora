@@ -1,6 +1,7 @@
 # Emmetteur récepteur basique LoRa
 
 Matériel:
+
 2 Module LoRa
 2 Arduino nano
 1 Bobine de SnPb
@@ -18,14 +19,23 @@ souder les pattes au Lora
 Connecter à l'aide des câbles Dupont Les Loras avec les Arduino dans cet ordre :
 
 Lora            Arduino
+
 3.3V            3.3V
+
 GND             GND
+
 SCK             D13
+
 MISO            D12
+
 MOSI            D11
+
 NSS             D10
+
 DIO0            D2
+
 RST             D9
+
 
 3:
 
